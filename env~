@@ -1,0 +1,5 @@
+MONGODB_URL=
+JWT_SECRET=
+HOST=http:
+
+# for mailing you may register with mailtrap for free mail account and get credentials
